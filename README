@@ -23,7 +23,6 @@ AWS is Amazon's comprehensive and evolving cloud computing platform that include
 - PaaS (Platform as a Service): This is used for applications, and other development, while providing cloud components to software. This includes development tools, database management, business intelligence (BI) services, etc.
 
 - SaaS (Software as a Service): In this service model, the cloud-based applications are provided to the user, as a service on demand. It is a single instance of the service running on the cloud and multiple end users are serviced.
-
 ![Alt text](iaas-paas-saas-hierarchy-diagram.jpg)
 ![Alt text](cloud-services-compared-to-transportation.jpg)
 
@@ -42,3 +41,24 @@ AWS is Amazon's comprehensive and evolving cloud computing platform that include
 - Private Cloud: Computing resources are used exclusively by a single business or organization. The private cloud can be physically located at the organization's on-site datacenter or hosted by a third-party service provider.
 
 - Hybrid Cloud: This is a combination of a private cloud combined with the use of public cloud services. This model allows for more flexibility and data deployment options.
+
+## Cloud Usage by Industry/Business
+
+- Public Cloud: Used by industries that need to scale rapidly and cost-effectively, such as startups, educational institutions, and businesses with variable computational needs like e-commerce.
+- Private Cloud: Preferred by industries that require a high level of data security and privacy, such as government agencies, financial institutions, and healthcare organizations.
+- Hybrid Cloud: Used by businesses that need a balance of the scalability of public cloud and the security of private cloud, such as large enterprises with diverse IT needs.
+
+## Operating Expenditure (OpEx) and Capital Expenditure (CapEx)
+- OpEx (Operating Expenditure): These are the expenses a business incurs through its normal business operations, often accounted for in the period they were incurred (e.g., rent, utilities, and salaries).
+- CapEx (Capital Expenditure): These are funds used by a company to acquire or upgrade physical assets such as property, buildings, an industrial plant, technology, or equipment.
+
+## Cloud and Expenditure Preference
+- The preference between OpEx and CapEx depends on the company's financial and operational strategy.
+
+- Cloud computing typically allows businesses to shift from CapEx to OpEx because instead of investing heavily upfront in physical infrastructure (CapEx), they can pay for IT resources on a consumption basis as an operational expense (OpEx).
+
+## Case Studies on Cloud Adoption
+
+- Netflix: By migrating to AWS, Netflix has been able to add numerous streaming services.
+
+- Capital One: The financial firm has migrated most of its workloads to AWS, closing several data centers.
