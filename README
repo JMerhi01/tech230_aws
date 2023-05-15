@@ -1,0 +1,44 @@
+## Cloud Computing
+
+Cloud computing is the delivery of computing services over the internet, including storage, servers, databases, networking, software, analytics, and intelligence. It allows for flexible resources, cost savings, and efficient scalability.
+
+## AWS (Amazon Web Services)
+
+AWS is Amazon's comprehensive and evolving cloud computing platform that includes a mixture of Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and packaged Software as a Service (SaaS) offerings.
+
+## Other Main Cloud Service Providers
+
+- Microsoft Azure: A comprehensive suite of cloud services for building, deploying, and managing applications through Microsoft-managed data centers.
+
+- Google Cloud Platform (GCP): A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, like Google Search and YouTube.
+
+- IBM Cloud: A set of cloud computing services for businesses offered by IBM. It combines platform as a service (PaaS) with infrastructure as a service (IaaS).
+
+- Oracle Cloud: A cloud computing service offered by Oracle Corporation providing servers, storage, network, applications and services through a global network of Oracle Corporation managed data centers.
+
+## IaaS, PaaS, and SaaS
+
+- IaaS (Infrastructure as a Service): Provides the infrastructure such as virtual machines and other resources like virtual-machine disk image library, block and file-based storage, firewalls, load balancers, IP addresses, virtual local area networks etc.
+
+- PaaS (Platform as a Service): This is used for applications, and other development, while providing cloud components to software. This includes development tools, database management, business intelligence (BI) services, etc.
+
+- SaaS (Software as a Service): In this service model, the cloud-based applications are provided to the user, as a service on demand. It is a single instance of the service running on the cloud and multiple end users are serviced.
+
+![Alt text](iaas-paas-saas-hierarchy-diagram.jpg)
+![Alt text](cloud-services-compared-to-transportation.jpg)
+
+- On-premises IT infrastructure is like owning a car. When you buy a car, you’re responsible for its maintenance, and upgrading means buying a new car.
+
+- IaaS is like leasing a car. When you lease a car, you choose the car you want and drive it wherever you wish, but the car isn’t yours. Want an upgrade? Just lease a different car!
+
+- PaaS is like taking a taxi. You don’t drive a taxi yourself, but simply tell the driver where you need to go and relax in the back seat.
+
+- SaaS is like going by bus. Buses have assigned routes, and you share the ride with other passengers.
+
+## Differences Between Public Cloud, Hybrid Cloud and Private Cloud
+
+- Public Cloud: Services are delivered over the public internet and available to anyone who wants to purchase them. Resources are shared among multiple users and accessible over the internet.
+
+- Private Cloud: Computing resources are used exclusively by a single business or organization. The private cloud can be physically located at the organization's on-site datacenter or hosted by a third-party service provider.
+
+- Hybrid Cloud: This is a combination of a private cloud combined with the use of public cloud services. This model allows for more flexibility and data deployment options.
